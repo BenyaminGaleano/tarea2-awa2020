@@ -85,7 +85,7 @@ function moveCircle(e) {
         case 13:
             addName();
             return;
-        case 8:
+        case 46:
             deleteName();
             return;
         }
